@@ -1,6 +1,3 @@
-#Assignment 1 Part 1
-#Maria Gilipsky
-
 def packageA(hours):
     if hours <= 20:
         charge = 29.95
