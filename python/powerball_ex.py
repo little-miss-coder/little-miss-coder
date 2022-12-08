@@ -103,7 +103,8 @@ if __name__=='__main__':
 
 
 '''
-OUTPUT (BASIC PROGRAM):
+OUTPUT:
+
 ****************************************
 The powerball numbers are: 
 1	16	24	56	57	
@@ -111,8 +112,6 @@ Powerball #7
 **********Thanks for playing!**********
 
 
-
-OUTPUT (WITH EXTRA PART):
 Would you like to check your numbers?
 y for yes anything else for no: y
 Enter #1: 30
