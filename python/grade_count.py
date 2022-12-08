@@ -1,4 +1,6 @@
 '''
+This reads from external files
+
 Write a function to count the numbers of scores are in the ranges 90 – 100, 80 – 89,
 70 – 79, 60 – 69, below 60 and show the output with a good format.
 '''
