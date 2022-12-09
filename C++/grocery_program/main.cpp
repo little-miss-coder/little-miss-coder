@@ -25,7 +25,7 @@ string menuName[mSize] = {"Apple","Banana", "Grapes", "Orange", "Pear"};
 double menuPrice[mSize] = {0.99, 1.49, 1.29, 2.29, 1.99};
 
 
-int main3()
+int main()
 {
     int choice;
     double q;
